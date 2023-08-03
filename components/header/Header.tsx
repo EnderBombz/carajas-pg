@@ -60,6 +60,7 @@ function Header({
   return (
     <>
       <header style={{ height: headerHeight }}>
+      <h2>Alteração teste</h2>
         <Drawers
           menu={{ items: navItems }}
           searchbar={searchbar}
